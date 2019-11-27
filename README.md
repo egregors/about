@@ -6,7 +6,7 @@
 
 ## Summary
 
-I'm a software engineer with nine years of experience in professional software development. I've been leading a remote dev team for more than tree years now. As a senior backend developer, I've built a backend for API orientated B2B systems and workflow automation.
+I'm a software engineer with nine years of experience in professional software development. I've been leading a remote dev team for more than three years now. As a senior backend developer, I've built a backend for API orientated B2B systems and workflow automation.
 
 I see myself as a "playing coach" in the team, not only the man who leads but the man who plays.
 
@@ -20,7 +20,7 @@ I'm a big fan of Continuous Integration ideas, public Clouds and the "fearless-p
 
 Programming is my passion, and I wonder the academic side of the question as well. I am still inspired by the ideas of McConnell, Fowler, and Gang of Four. I like "Clean Architect | Code | Coder" concepts and I believe if you necessary to write OOP code, it should be a simple and clean one.
 
-The last time I am more and more interested in functional programming, and time by time like to solve some problems by Haskell just for fun.
+Lately I'm passionate about in functional programming, and from time to time like to solve some problems by Haskell just for fun.
 
 I'm looking for ways to master my skills, so regularly attend global conferences, meetups. Also, I've taken part in the local dev community [VLDC](https://vldc.org/).
 
@@ -54,7 +54,6 @@ I like to try new languages and technologies all the time, but mostly I'm workin
   * Redux
 * Lua
 * C/C++
-* Pascal
 
 ### Storages
 
