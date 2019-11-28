@@ -18,7 +18,7 @@ I know how to create beautiful and reliable RestAPI's, scalable and maintainable
 
 I'm a big fan of Continuous Integration ideas, public Clouds and the "fearless-programming" concept. So, I pay huge attention to quality-gates, automation of linting, formatting, testing and good coverage for my projects. This is especially important for remote teams.
 
-Programming is my passion, and I wonder the academic side of the question as well. I am still inspired by the ideas of McConnell, Fowler, and Gang of Four. I like "Clean Architect | Code | Coder" concepts and I believe if you necessary to write OOP code, it should be a simple and clean one.
+Programming is my passion, and I wonder the academic side of the question as well. I am still inspired by the ideas of McConnell, Fowler, and Gang of Four. I like "Clean Architect | Code | Coder" concepts and I believe if you have to to write OOP code, it should be a simple and clean one.
 
 Lately I'm passionate about in functional programming, and from time to time like to solve some problems by Haskell just for fun.
 
