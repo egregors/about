@@ -40,10 +40,10 @@ I like to try new languages and technologies all the time, but mostly I'm workin
   * Falcon
   * Bottle
   * SQLAlchemy
+  * numpy
 * Go
   * go-chi
   * go-kit
-  * golint
   * golangci-lint
 * JavaScript
   * Node.js
@@ -52,6 +52,9 @@ I like to try new languages and technologies all the time, but mostly I'm workin
   * Svelte
   * React
   * Redux
+  * gulp
+  * webpack
+  * yarn
 * Lua
 * C/C++
 
@@ -71,7 +74,7 @@ I like to try new languages and technologies all the time, but mostly I'm workin
 * TeamCity
 * Jenkins
 * GitLab
-* GitHab
+* GitHub
 * Ansible 
 * Docker, docker-compose
 * k8s
@@ -87,6 +90,7 @@ I like to try new languages and technologies all the time, but mostly I'm workin
 * Design patterns
 * Data Structures
 * Programming paradigms
+* 12 factor app's
 * OOP
 * VCS (Git)
 * Web (HTTP, REST, WebSockets, Proxy [nginx, traefik])
