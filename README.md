@@ -115,7 +115,7 @@ I like to try new languages and technologies all the time, but mostly I'm workin
 | Name                    | Link                                                | Description                                                  |
 | :---------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
 | teamcity-docker-compose | https://github.com/egregors/teamcity-docker-compose | Compose to create working TeamCity server with PostgreSQL and Agents |
-| socks5-server           | https://github.com/egregors/socks5-server           | Simple socks5 server                                         |
+| logux-django            | https://github.com/logux/django                     | Django Logux integration engine                              |
 | youtrack-docker-compose | https://github.com/egregors/youtrack-docker-compose | Compose to create working YouTrack server                    |
 | cbrf                    | https://github.com/egregors/cbrf                    | Wrapper for The Central Bank of the Russian Federation site API |
 | private-docker-registry | https://github.com/egregors/private-docker-registry | Create your own private docker registry with ssl by letsencrypt and basic auth |
@@ -126,6 +126,7 @@ I like to try new languages and technologies all the time, but mostly I'm workin
 | pySplash                | https://github.com/egregors/pySplash                | Unsplash wallpapers on your Mac OS                           |
 | HWP                     | https://github.com/egregors/HWP                     | Helical wheel projection with variability vector             |
 | sucker                  | https://github.com/egregors/sucker                  | Concurrent file downloader on Go                             |
+| socks5-server           | https://github.com/egregors/socks5-server           | Simple socks5 server                                         |
 
 
 
