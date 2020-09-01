@@ -58,6 +58,7 @@ I like to try new languages and technologies all the time, but mostly I'm workin
   * webpack
   * yarn
 * Dart
+  * Flutter
 * Haskell
 * Lua
 * C/C++
