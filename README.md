@@ -30,17 +30,19 @@ I'm looking for ways to master my skills, so regularly attend global conferences
 
 I like to try new languages and technologies all the time, but mostly I'm working with this stack
 
-### Programming languages
+### Programming languages and frameworks
 
 * Python 2\3 
-  * mypy
-  * Django 
+  * Django
+  * DRF
   * Celery
   * Flask
   * Falcon
   * Bottle
   * SQLAlchemy
+  * mypy
   * numpy
+  * etc.
 * Go
   * go-chi
   * go-kit
@@ -55,6 +57,8 @@ I like to try new languages and technologies all the time, but mostly I'm workin
   * gulp
   * webpack
   * yarn
+* Dart
+* Haskell
 * Lua
 * C/C++
 
@@ -82,8 +86,10 @@ I like to try new languages and technologies all the time, but mostly I'm workin
 ### Workflow
 
 * Git
-* Agail, Kanban, Scrum, Poker Planning, Jira, YourTrack
+* Agail, Kanban, Scrum, Poker Planning
+* Jira, YourTrack
 * Quality gates
+* Code review
 
 ### Common
 
@@ -103,12 +109,8 @@ I like to try new languages and technologies all the time, but mostly I'm workin
 ### Some crazy stuff
 
 * Pure FP
-
 * Haskell
-
 * Automata-based programming
-
-  
 
 ## OpenSource Projects 
 
