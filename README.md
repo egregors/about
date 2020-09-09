@@ -87,7 +87,7 @@ I like to try new languages and technologies all the time, but mostly I'm workin
 ### Workflow
 
 * Git
-* Agail, Kanban, Scrum, Poker Planning
+* Agile, Kanban, Scrum, Poker Planning
 * Jira, YourTrack
 * Quality gates
 * Code review
