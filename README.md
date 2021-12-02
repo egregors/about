@@ -6,7 +6,7 @@
 
 ## Summary
 
-I'm a software engineer with nine years of experience in professional software development. I've been leading a remote dev team for more than three years now. As a senior backend developer, I've built a backend for API driven B2B systems and workflow automation.
+I'm a software engineer with ten years of experience in professional software development. I've been leading a remote dev team for more than three years now. As a senior backend developer, I've built a backend for API driven B2B systems and workflow automation.
 
 I see myself as a "playing coach" in the team, not only the man who leads but the man who plays.
 
